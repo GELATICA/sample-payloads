@@ -1,0 +1,4 @@
+{
+	"error": "ERR_USEREXISTS",
+	"message": "Error message, accompanied by HTTP 400, can be returned by login or detection actions."
+}

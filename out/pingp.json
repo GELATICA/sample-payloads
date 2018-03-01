@@ -1,0 +1,21 @@
+{
+    "body": {
+        "device_info": {
+            "androidVersion": "25-7.1.2",
+            "deviceId": "ffffffffffffffff",
+            "deviceModel": "Redmi 4X"
+        },
+        "user_info": {
+            "email": "email@com.com",
+            "key": "AAAAAAAAA",
+            "name": "Name",
+            "team": "My Team"
+        }
+    },
+    "header": {
+        "application": "1.3",
+        "frame_type": "ping",
+        "protocol": "1.0",
+        "time_stamp": 1519858120993
+    }
+}

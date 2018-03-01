@@ -1,0 +1,16 @@
+{
+    "body": {
+        "user_info": {
+            "email": "email@com.com",
+            "key": "AAAAAAAAA",
+            "name": "Name",
+            "team": "My Team"
+        }
+    },
+    "header": {
+        "frame_type": "login",
+        "protocol": "1.0",
+        "server": "1.30",
+        "time_stamp": 1506434535345
+    }
+}
